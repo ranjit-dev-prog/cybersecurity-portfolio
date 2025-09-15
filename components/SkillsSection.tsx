@@ -33,7 +33,7 @@ const skillCategories = [
   {
     title: "Certifications",
     icon: Award,
-    skills: ["CISSP (In Progress)", "CEH", "Security+", "CySA+", "GCIH", "AWS Security", "Azure Security"],
+    skills: ["EC-Council cybersecurity in business","cisco networking basics"],
   },
 ]
 
@@ -62,7 +62,7 @@ export default function SkillsSection() {
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-black font-montserrat text-primary mb-6">Technical Arsenal</h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-            Core competencies in security tools, platforms, and professional certifications
+            Core competencies in security tools, platforms, and cybersecurity certifications
           </p>
         </div>
 
