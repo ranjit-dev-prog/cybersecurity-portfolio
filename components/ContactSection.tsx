@@ -5,7 +5,7 @@ import { MapPin, Phone, Mail, Linkedin, Github } from "lucide-react"
 
 const contactInfo = [
   { icon: MapPin, title: "Location", value: "Mumbai, India", href: null },
-  { icon: Phone, title: "Phone", value: "+91 98674 70628", href: "tel:+919867470628" },
+  { icon: Phone, title: "Phone", value: "+91 9867470618", href: "tel:+91 9867470618" },
   { icon: Mail, title: "Email", value: "ranjitsaroj393@gmail.com", href: "mailto:ranjitsaroj393@gmail.com" },
   {
     icon: Linkedin,

@@ -10,7 +10,7 @@ const expertise = [
     description:
       "Comprehensive security monitoring, incident response, and threat analysis with expertise in SIEM platforms and security orchestration.",
     skills: [
-      "24/7 Security Monitoring",
+      "Security Monitoring",
       "Incident Response & Analysis",
       "SIEM Implementation & Management",
       "Threat Intelligence Analysis",

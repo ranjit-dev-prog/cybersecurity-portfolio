@@ -4,8 +4,8 @@ import { useEffect, useState } from "react"
 import { Shield, Target, Wrench, TrendingUp } from "lucide-react"
 
 const stats = [
-  { number: "5+", label: "Years Experience", icon: Shield },
-  { number: "50+", label: "Security Assessments", icon: Target },
+  { number: "1+", label: "Years Experience", icon: Shield },
+  { number: "10+", label: "Security Assessments", icon: Target },
   { number: "15+", label: "Tools Developed", icon: Wrench },
   { number: "100%", label: "Success Rate", icon: TrendingUp },
 ]
