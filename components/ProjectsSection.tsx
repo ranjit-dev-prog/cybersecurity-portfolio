@@ -28,19 +28,7 @@ const projects = [
       "Executive dashboard and reporting",
     ],
   },
-  {
-    icon: Cloud,
-    title: "Cloud Security Assessment Tool",
-    description: "Specialized framework for evaluating cloud infrastructure security and compliance.",
-    features: [
-      "Multi-cloud environment scanning",
-      "IAM configuration analysis",
-      "Resource security evaluation",
-      "Compliance framework mapping",
-      "Automated remediation guidance",
-    ],
-  },
-]
+]  
 
 export default function ProjectsSection() {
   const [isVisible, setIsVisible] = useState(false)
