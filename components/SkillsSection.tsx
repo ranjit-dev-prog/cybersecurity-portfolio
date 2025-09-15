@@ -25,11 +25,7 @@ const skillCategories = [
       "Gobuster",
     ],
   },
-  {
-    title: "Platforms & Cloud",
-    icon: Cloud,
-    skills: ["AWS", "Azure", "Google Cloud", "Splunk", "ELK Stack", "QRadar", "Sentinel", "CrowdStrike", "Rapid7"],
-  },
+  
   {
     title: "Certifications",
     icon: Award,
